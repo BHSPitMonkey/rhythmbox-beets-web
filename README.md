@@ -4,7 +4,7 @@
 
 * Rhythmbox 3.0.2+ (http://www.rhythmbox.org)
 * Beets (http://beets.radbox.org/)
-** Web Plugin (http://beets.readthedocs.org/en/latest/plugins/web.html)
+  * Web Plugin (http://beets.readthedocs.org/en/latest/plugins/web.html)
 
 ## Installation
 
